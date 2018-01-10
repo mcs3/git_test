@@ -1,0 +1,1 @@
+This is Mike Smith's first git project.
